@@ -430,3 +430,8 @@ footer {
 footer p {
   text-align: center;
 }
+
+.tableau {
+  display: flex;
+  justify-content: center;
+}
