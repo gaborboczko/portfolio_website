@@ -217,7 +217,6 @@ section {
 .btn-container {
   display: flex;
   justify-content: center;
-  max-width: 70;
   gap: 1rem;
 }
 
